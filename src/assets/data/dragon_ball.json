@@ -1,0 +1,81 @@
+{
+  "title":"Qual Personagem de Dragon Ball Você Seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual destas características melhor descreve sua abordagem em relação a desafios e adversidades?",
+      "options":[
+        {"id": 1, "name":"Eu encaro os desafios de frente, sempre buscando me superar e nunca desistindo.", "alias":"G"},
+        {"id": 2, "name":"Eu sou determinado e obstinado, e nunca aceito a derrota facilmente.", "alias":"V"},
+        {"id": 3, "name":"Eu sou inteligente e estratégico, e sempre encontro soluções criativas para resolver problemas.", "alias":"B"},
+        {"id": 4, "name":"Eu sou leal e confiável, e sempre estou disposto a ajudar meus amigos, mesmo em situações difíceis.", "alias":"K"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você geralmente se comporta em situações sociais ou em grupos?",
+      "options":[
+        {"id": 1, "name":"Eu sou amigável e extrovertido, e gosto de fazer novos amigos onde quer que eu vá.", "alias":"G"},
+        {"id": 2, "name":"Eu sou reservado e orgulhoso, e prefiro manter certa distância das pessoas que não conheço bem.", "alias":"V"},
+        {"id": 3, "name":"Eu sou sociável e comunicativo, e geralmente tomo a liderança em situações sociais.", "alias":"B"},
+        {"id": 4, "name":"Eu sou gentil e prestativo, e gosto de ajudar os outros sempre que possível.", "alias":"K"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que mais te motiva em suas jornadas ou objetivos?",
+      "options":[
+        {"id": 1, "name":"Eu sou motivado pelo desejo de proteger meus amigos e defender o universo contra ameaças poderosas.", "alias":"G"},
+        {"id": 2, "name":"Eu sou motivado pela busca constante por poder e superação, sempre buscando me tornar mais forte.", "alias":"V"},
+        {"id": 3, "name":"Eu sou motivado pelo desejo de descobrir novas tecnologias e fazer avanços científicos.", "alias":"B"},
+        {"id": 4, "name":"Eu sou motivado pela amizade e pelo desejo de fazer a diferença, mesmo sem habilidades extraordinárias.", "alias":"K"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você lida com a ideia de competição?",
+      "options":[
+        {"id": 1, "name":"Eu gosto de competir, mas sempre prezo pelo espírito esportivo e pelo respeito mútuo.", "alias":"G"},
+        {"id": 2, "name":"Eu vejo a competição como uma oportunidade para provar minha superioridade e dominância.", "alias":"V"},
+        {"id": 3, "name":"Eu não me importo muito com competições, prefiro focar em meus próprios interesses e objetivos.", "alias":"B"},
+        {"id": 4, "name":"Eu participo de competições de vez em quando, mas geralmente não levo tão a sério quanto outros.", "alias":"K"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você se sente em relação a assumir responsabilidades?",
+      "options":[
+        {"id": 1, "name":"Eu aceito as responsabilidades que vêm com o poder que possuo, sempre buscando fazer o que é certo.", "alias":"G"},
+        {"id": 2, "name":"Eu vejo as responsabilidades como um fardo necessário para alcançar meus objetivos e ambições.", "alias":"V"},
+        {"id": 3, "name":"Eu assumo responsabilidades quando necessário, mas geralmente prefiro delegar tarefas quando possível.", "alias":"B"},
+        {"id": 4, "name":"Eu sou responsável e confiável, sempre cumprindo minhas obrigações, mesmo que seja difícil.", "alias":"K"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como você se sente em relação à busca por conhecimento e crescimento pessoal?",
+      "options":[
+        {"id": 1, "name":"Estou sempre em busca de aprender coisas novas e me aprimorar em minhas habilidades.", "alias":"G"},
+        {"id": 2, "name":"Eu vejo a busca por conhecimento como uma forma de me fortalecer e me tornar mais poderoso.", "alias":"V"},
+        {"id": 3, "name":"Eu adoro explorar e descobrir coisas novas, especialmente quando se trata de tecnologia ou ciência.", "alias":"B"},
+        {"id": 4, "name":"Eu valorizo o conhecimento, mas prefiro focar em outras áreas da vida além do desenvolvimento pessoal.", "alias":"K"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como você reage diante de situações de perigo ou adversidade?",
+      "options":[
+        {"id": 1, "name":"Eu enfrento os perigos de frente, mantendo sempre a esperança e determinação.", "alias":"G"},
+        {"id": 2, "name":"Eu vejo desafios como uma oportunidade para provar minha força e determinação.", "alias":"V"},
+        {"id": 3, "name":"Eu tento encontrar soluções práticas e lógicas para superar os obstáculos que surgem no meu caminho.", "alias":"B"},
+        {"id": 4, "name":"Eu tento manter a calma e encontrar maneiras de ajudar a mim mesmo e aos outros a sair da situação de perigo.", "alias":"K"}
+      ]
+    }
+  ],
+  "results":{
+    "G": "Você muito provavelmente seria o Goku",
+    "V": "Você muito provavelmente seria o Vegeta",
+    "B": "Você muito provavelmente seria a Bulma",
+    "K": "Você muito provavelmente seria o Kuririn"
+  }
+}

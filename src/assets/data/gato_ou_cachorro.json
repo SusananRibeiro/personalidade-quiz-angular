@@ -1,0 +1,79 @@
+{
+  "title":"Teste de Personalidade: Gato ou Cachorro?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual destas características descreve melhor o seu comportamento em situações novas?",
+      "options":[
+        {"id": 1, "name":"Prefiro observar antes de interagir.", "alias":"G"},
+        {"id": 2, "name":"Gosto de explorar imediatamente.", "alias":"C"},
+        {"id": 3, "name":"Prefiro observar antes de interagir.", "alias":"G"},
+        {"id": 4, "name":"Gosto de fazer amizade imediatamente. ", "alias":"C"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você reage quando está chateado?",
+      "options":[
+        {"id": 1, "name":"Prefiro me isolar e ficar sozinho por um tempo.", "alias":"G"},
+        {"id": 2, "name":"Busco conforto e apoio de amigos ou familiares.", "alias":"C"},
+        {"id": 3, "name":"Prefiro me isolar e ficar sozinho por um tempo.", "alias":"G"},
+        {"id": 4, "name":"Busco conforto e apoio de amigos ou familiares", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual destas descrições se alinha mais com a sua personalidade?",
+      "options":[
+        {"id": 1, "name":"Sou independente e valorizo meu espaço pessoal.", "alias":"G"},
+        {"id": 2, "name":"Sou leal e adoro interagir com outras pessoas.", "alias":"C"},
+        {"id": 3, "name":"Sou independente e valorizo meu espaço pessoal.", "alias":"G"},
+        {"id": 4, "name":"Sou leal e adoro interagir com outras pessoas. ", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você se sente em relação a rotinas e horários fixos?",
+      "options":[
+        {"id": 1, "name":"Prefiro flexibilidade e liberdade em minha rotina.", "alias":"G"},
+        {"id": 2, "name":"Gosto de ter horários fixos para as minhas atividades diárias.", "alias":"C"},
+        {"id": 3, "name":"Prefiro flexibilidade e liberdade em minha rotina.", "alias":"G"},
+        {"id": 4, "name":"Gosto de ter horários fixos para as minhas atividades diárias.", "alias":"C"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Em uma situação de conflito, qual destas ações você provavelmente tomaria?",
+      "options":[
+        {"id": 1, "name":"Evitar confrontos diretos e buscar soluções pacíficas.", "alias":"G"},
+        {"id": 2, "name":"Enfrentar o problema de frente para resolvê-lo o mais rápido possível.", "alias":"C"},
+        {"id": 3, "name":"Evitar confrontos diretos e buscar soluções pacíficas.", "alias":"G"},
+        {"id": 4, "name":"Enfrentar o problema de frente para resolvê-lo o mais rápido possível.", "alias":"C"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que você mais valoriza em um relacionamento próximo?",
+      "options":[
+        {"id": 1, "name":"Independência e liberdade pessoal.", "alias":"G"},
+        {"id": 2, "name":"Lealdade e companheirismo constante.", "alias":"C"},
+        {"id": 3, "name":"Independência e liberdade pessoal.", "alias":"G"},
+        {"id": 4, "name":"Lealdade e companheirismo constante.", "alias":"C"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Quando você está em um ambiente desconhecido, como você se adapta?",
+      "options":[
+        {"id": 1, "name":"Prefiro explorar gradualmente, me familiarizando aos poucos.", "alias":"G"},
+        {"id": 2, "name":"Fico animado e entusiasmado para descobrir tudo de uma vez.", "alias":"C"},
+        {"id": 3, "name":"Prefiro explorar gradualmente, me familiarizando aos poucos.", "alias":"G"},
+        {"id": 4, "name":"Fico animado e entusiasmado para descobrir tudo de uma vez.", "alias":"C"}
+      ]
+    }
+  ],
+  "results":{
+    "G": "Você muito provavelmente seria um gato",
+    "C": "Você muito provavelmente seria um cachorro"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title":"Teste de Personalidade: Akame ou Esdeath? Do anime Akame Ga Kill",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você lida com a ideia de justiça e moralidade?",
+      "options":[
+        {"id": 1, "name":"Acredito firmemente em seguir um código moral e em fazer o que é certo, mesmo que seja difícil.", "alias":"A"},
+        {"id": 2, "name":"Acredito que a justiça é subjetiva e está sujeita ao poder, e estou disposta a impor minha visão de justiça.", "alias":"E"},
+        {"id": 3, "name":"A justiça é importante, mas a flexibilidade nas regras pode ser necessária para alcançar um bem maior.", "alias":"A"},
+        {"id": 4, "name":"Vejo a justiça como uma forma de manter a ordem e o controle, mesmo que isso exija medidas extremas.", "alias":"E"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual é a sua abordagem preferida em combate?",
+      "options":[
+        {"id": 1, "name":"Prefiro lutar de forma eficiente e letal, utilizando técnicas rápidas e precisas.", "alias":"A"},
+        {"id": 2, "name":"Gosto de dominar meus oponentes com força bruta e mostrar minha superioridade.", "alias":"E"},
+        {"id": 3, "name":"Sou estratégico em combate, buscando oportunidades para derrotar meus inimigos com eficácia.", "alias":"A"},
+        {"id": 4, "name":"Gosto de impor meu poder e causar medo em meus adversários, utilizando táticas intimidadoras.", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que mais te motiva em suas jornadas ou objetivos?",
+      "options":[
+        {"id": 1, "name":"Sou motivado pelo desejo de fazer justiça e proteger os inocentes, lutando contra a corrupção e a opressão.", "alias":"A"},
+        {"id": 2, "name":"Estou motivada pela busca pelo poder e pela excelência, sempre buscando alcançar novos patamares de dominação.", "alias":"E"},
+        {"id": 3, "name":"Busco constantemente me aprimorar e superar meus limites para me tornar mais forte e capaz.", "alias":"A"},
+        {"id": 4, "name":"A dominação e a autoridade são minhas principais motivações, e busco expandir meu controle sobre os outros.", "alias":"E"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você se relaciona com seus colegas de equipe ou companheiros?",
+      "options":[
+        {"id": 1, "name":"Eu me preocupo com meus companheiros e faço o possível para protegê-los, mesmo que isso signifique sacrificar-me.", "alias":"A"},
+        {"id": 2, "name":"Vejo meus subordinados como ferramentas para alcançar meus objetivos e espero que me sigam cegamente.", "alias":"E"},
+        {"id": 3, "name":"Valorizo a união e o apoio mútuo entre meus companheiros, e estou sempre disposta a ajudá-los.", "alias":"A"},
+        {"id": 4, "name":"Considero meus subordinados como peças de um jogo, e estou disposta a descartá-los se não forem úteis para meus objetivos.", "alias":"E"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você reage diante de situações de conflito ou perigo?",
+      "options":[
+        {"id": 1, "name":"Mantenho a calma e a determinação, focando em encontrar uma solução eficaz para a situação.", "alias":"A"},
+        {"id": 2, "name":"Encaro o perigo de frente, buscando dominar meus adversários e provar minha força.", "alias":"E"},
+        {"id": 3, "name":"Prefiro evitar conflitos desnecessários, mas estou disposta a lutar quando necessário para proteger o que é importante.", "alias":"A"},
+        {"id": 4, "name":"Vejo o perigo como uma oportunidade para demonstrar meu poder e impor minha vontade sobre os outros.", "alias":"E"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que você valoriza mais em um relacionamento ou amizade?",
+      "options":[
+        {"id": 1, "name":"A lealdade e o apoio mútuo são fundamentais para mim em qualquer relação. ", "alias":"A"},
+        {"id": 2, "name":"Espero que meus subordinados me respeitem e sigam minhas ordens sem questionamentos.", "alias":"E"},
+        {"id": 3, "name":"Valorizo o respeito e a confiança mútua em meus relacionamentos, buscando construir laços sólidos com meus companheiros.", "alias":"A"},
+        {"id": 4, "name":"Vejo meus subordinados como parte de minha autoridade, esperando obediência e submissão total.", "alias":"E"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como você se define em relação aos seus ideais e convicções?",
+      "options":[
+        {"id": 1, "name":"Meus ideais são meu guia e estou disposto a lutar por eles até o fim.", "alias":"A"},
+        {"id": 2, "name":"Meus ideais são absolutos e não hesito em usar meu poder para impô-los aos outros.", "alias":"E"},
+        {"id": 3, "name":"Busco sempre encontrar um equilíbrio entre meus ideais e a realidade, adaptando-me conforme necessário para alcançar meus objetivos.", "alias":"A"},
+        {"id": 4, "name":"Meus ideais são minha força motriz, e estou disposta a eliminar qualquer obstáculo que se coloque em meu caminho para realizá-los.", "alias":"E"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria a Akame",
+    "E": "Você muito provavelmente seria a Esdeath"
+  }
+}

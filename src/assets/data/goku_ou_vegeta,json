@@ -1,0 +1,79 @@
+{
+  "title":"Teste de Personalidade: Goku ou Vegeta?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você reage diante de desafios e adversidades?",
+      "options":[
+        {"id": 1, "name":"Encaro os desafios de frente, mantendo sempre a esperança e determinação", "alias":"G"},
+        {"id": 2, "name":"Vejo desafios como uma oportunidade para provar minha força e determinação.", "alias":"V"},
+        {"id": 3, "name":"Acredito que desafios são oportunidades para crescer e me tornar mais forte, mantendo a calma e a confiança.", "alias":"G"},
+        {"id": 4, "name":"Encaro desafios como provações que devo superar a qualquer custo, mostrando minha superioridade.", "alias":"V"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que mais te motiva em suas jornadas ou objetivos?",
+      "options":[
+        {"id": 1, "name":"Sou motivado pelo desejo de proteger meus amigos e defender o universo contra ameaças poderosas.", "alias":"G"},
+        {"id": 2, "name":"Sou motivado pela busca constante por poder e superação, sempre buscando me tornar mais forte.", "alias":"V"},
+        {"id": 3, "name":"Sinto uma forte conexão com meus amigos e familiares, e faço de tudo para protegê-los e defendê-los.", "alias":"G"},
+        {"id": 4, "name":"Busco constantemente alcançar um novo nível de poder e superioridade, ultrapassando meus limites.", "alias":"V"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como você lida com a ideia de competição?",
+      "options":[
+        {"id": 1, "name":"Gosto de competir, mas sempre prezo pelo espírito esportivo e pelo respeito mútuo.", "alias":"G"},
+        {"id": 2, "name":"Vejo a competição como uma oportunidade para provar minha superioridade e dominância.", "alias":"V"},
+        {"id": 3, "name":"Acredito que competição é saudável quando buscamos nos desafiar e crescer juntos, sem perder de vista a amizade.", "alias":"G"},
+        {"id": 4, "name":"Encaro a competição como uma batalha onde devo mostrar minha força e determinação para superar meus adversários.", "alias":"V"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você se sente em relação à busca por conhecimento e crescimento pessoal?",
+      "options":[
+        {"id": 1, "name":"Estou sempre em busca de aprender coisas novas e me aprimorar em minhas habilidades.", "alias":"G"},
+        {"id": 2, "name":"Vejo a busca por conhecimento como uma forma de me fortalecer e me tornar mais poderoso.", "alias":"V"},
+        {"id": 3, "name":"Valorizo a sabedoria e a busca por conhecimento como parte essencial do meu crescimento como pessoa.", "alias":"G"},
+        {"id": 4, "name":"Busco constantemente me superar e adquirir novas habilidades para me tornar o mais poderoso possível.", "alias":"V"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você reage diante de situações de perigo ou adversidade?",
+      "options":[
+        {"id": 1, "name":"Enfrento os perigos de frente, mantendo sempre a esperança e determinação.", "alias":"G"},
+        {"id": 2, "name":"Vejo desafios como uma oportunidade para provar minha força e determinação", "alias":"V"},
+        {"id": 3, "name":"Busco manter a calma e a racionalidade, procurando encontrar soluções para resolver a situação da melhor forma possível.", "alias":"G"},
+        {"id": 4, "name":"Encaro os perigos como desafios que devo superar, demonstrando minha coragem e determinação.", "alias":"V"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que você valoriza mais em um relacionamento ou amizade?",
+      "options":[
+        {"id": 1, "name":"A lealdade e a conexão emocional são fundamentais para mim.", "alias":"G"},
+        {"id": 2, "name":"Valorizo o respeito e a admiração mútua em uma relação.", "alias":"V"},
+        {"id": 3, "name":"A confiança e o apoio mútuo são essenciais para mim.", "alias":"G"},
+        {"id": 4, "name":"Procuro uma relação em que ambos possam se tornar mais fortes e desafiarem um ao outro.", "alias":"V"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Como você se define em relação aos seus sonhos e ambições?",
+      "options":[
+        {"id": 1, "name":"Meus sonhos são grandes e busco realizá-los com determinação e coragem.", "alias":"G"},
+        {"id": 2, "name":"Tenho ambições elevadas e não paro até alcançá-las, custe o que custar.", "alias":"V"},
+        {"id": 3, "name":"Busco realizar meus sonhos, mas sempre mantendo os pés no chão e considerando o bem-estar dos outros.", "alias":"G"},
+        {"id": 4, "name":"Não medirei esforços para alcançar meus objetivos, mesmo que isso signifique passar por cima de outros.", "alias":"V"}
+      ]
+    }
+  ],
+  "results":{
+    "G": "Você muito provavelmente seria o Goku",
+    "V": "Você muito provavelmente seria o Vegeta"
+  }
+}
